@@ -1,0 +1,26 @@
+.navContainer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    column-gap: 10px;
+    box-sizing: border-box;
+    padding: 10px 40px;
+  }
+
+  .button-social{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .image-social {
+    width: 40px;
+  }
